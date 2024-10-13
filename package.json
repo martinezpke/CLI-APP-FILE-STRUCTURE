@@ -1,0 +1,20 @@
+{
+    "name": "cli-app-template",
+    "version": "1.0.0",
+    "description": "CLI App Template",
+    "main": "bin/cli.js",
+    "bin": {
+      "cli-app": "./bin/cli.js"
+    },
+    "dependencies": {
+      "commander": "^10.0.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+      "test": "echo \"No test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC"
+  }
+  
